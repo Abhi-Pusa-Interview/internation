@@ -12,5 +12,7 @@
 3. A search functionality is provided to search user by name or group by name on both the pages.
 4. One can add an user or group by clicking respective button available on both the pages.
 5. Also an user details page and group details page implemented in which the details of the clicked user or group can be viewed.
+6. Also a user and a group can be deleted.
+
 
 
