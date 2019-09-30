@@ -1,0 +1,81 @@
+.primary{
+    width: calc(100% - 10px);
+    max-width: 450px;
+    display: block;
+    padding: 15px;
+    font-size: 15px;
+    background: lavender;
+    margin: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 3px palevioletred;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+.user-pallete{
+    display:flex;
+    flex-direction: row;
+    background: oldlace;
+    margin: 5px;
+    box-shadow: 1px 1px 3px goldenrod;
+}
+
+.user-pallete div{
+    width:100%;
+    text-align: center;
+}
+
+.user-pallete p{
+    display: inline-block;
+}
+.controller{
+    margin: 20px 0px 20px 0px;
+}
+.initials-logo{
+    border-radius: 50% 30%;
+    background: lightgrey;
+}
+.pallete-block{
+    padding: 10px;
+}
+.pallete-block-btn{
+    font-size: 15px;
+    margin-top: 15px;
+    background: burlywood;
+    padding: 10px;
+}
+.btn-wrapper{
+    padding: 10px 0px;
+}
+.modal-btn{
+    background: burlywood;
+}
+.selection-span{
+    background: greenyellow;
+    padding: 5px;
+    margin: 3px;
+}
+.details-wrapper{
+    text-align: center;
+}
+.details-wrapper h1{
+    background: cadetblue;
+    padding: 25px;
+    border-radius: 50%;
+    margin: auto;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.details-content{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin-top: 10px;
+    border-bottom: 1px solid grey;
+}
+.details-text{
+    width:100%;
+}
+.right{
+    text-align: left;
+}
